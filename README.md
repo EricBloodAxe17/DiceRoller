@@ -35,10 +35,10 @@ project/
 
 ---
 
-## 📸 Demo Preview
+## 🌐 Live Demo
 
-![Demo](images/dice3.png)  
-*Example of a single dice roll*
+Check out the live working demo here: 
+👉 [DiceRoller](https://ericbloodaxe17.github.io/DiceRoller/)
 
 ---
 
